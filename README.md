@@ -54,3 +54,67 @@ Create new teams, named Tier 1, and Tier 2.
 Create Tier 2, team. Go to systems and allow anyone to create tickets.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/BRuZfXR.png" height="80%" width="80%"/>
+</p>
+<p>
+Updated user settings.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AKBTvIZ.png" height="80%" width="80%"/>
+</p>
+<p>
+Adding new agents, and created new accounts.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AKBTvIZ.png" height="80%" width="80%"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zepGA61.png" height="80%" width="80%"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/axUScv0.png" height="80%" width="80%"/>
+</p>
+<p>
+Service level agreements.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/izSHKCS.png" height="80%" width="80%"/>
+</p>
+<p>
+Add new SLA plans.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Dr0fkvF.png" height="80%" width="80%"/>
+</p>
+<p>
+Create and update help topics.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xSg1HOW.png" height="80%" width="80%"/>
+</p>
+<p>
+Created Help Topic list.
+</p>
+<br />
